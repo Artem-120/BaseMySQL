@@ -1,0 +1,11 @@
+﻿  ConsoleApplication2.cpp
+D:\Проект\С++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(46): error C2086: std::queue<Pos,std::deque<_Ty,std::allocator<_Ty>>> q: переопределение
+          with
+          [
+              _Ty=Pos
+          ]
+  D:\Проект\С++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(25): note:  см. объявление "q"
+D:\Проект\С++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(22): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+D:\Проект\С++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(29): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
